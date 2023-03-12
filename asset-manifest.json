@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/react-gh-pages/static/css/main.39ada617.css",
-    "main.js": "/react-gh-pages/static/js/main.55261e59.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.39ada617.css.map": "/react-gh-pages/static/css/main.39ada617.css.map",
-    "main.55261e59.js.map": "/react-gh-pages/static/js/main.55261e59.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.39ada617.css",
-    "static/js/main.55261e59.js"
-  ]
+  "main.css": "/lzagaja.com/static/css/main.e8fc7118.chunk.css",
+  "main.js": "/lzagaja.com/static/js/main.cda3a5d3.chunk.js",
+  "main.js.map": "/lzagaja.com/static/js/main.cda3a5d3.chunk.js.map",
+  "static/js/1.d0acc314.chunk.js": "/lzagaja.com/static/js/1.d0acc314.chunk.js",
+  "static/js/1.d0acc314.chunk.js.map": "/lzagaja.com/static/js/1.d0acc314.chunk.js.map",
+  "static/js/2.c54ffd68.chunk.js": "/lzagaja.com/static/js/2.c54ffd68.chunk.js",
+  "static/js/2.c54ffd68.chunk.js.map": "/lzagaja.com/static/js/2.c54ffd68.chunk.js.map",
+  "runtime~main.js": "/lzagaja.com/static/js/runtime~main.a425e59c.js",
+  "runtime~main.js.map": "/lzagaja.com/static/js/runtime~main.a425e59c.js.map",
+  "static/css/main.e8fc7118.chunk.css.map": "/lzagaja.com/static/css/main.e8fc7118.chunk.css.map",
+  "index.html": "/lzagaja.com/index.html",
+  "precache-manifest.84b5a247452ef7295409a235f2b97bfe.js": "/lzagaja.com/precache-manifest.84b5a247452ef7295409a235f2b97bfe.js",
+  "service-worker.js": "/lzagaja.com/service-worker.js"
 }
