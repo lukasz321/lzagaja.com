@@ -1,15 +1,15 @@
 {
-  "main.css": "/lzagaja.com/static/css/main.e8fc7118.chunk.css",
-  "main.js": "/lzagaja.com/static/js/main.cda3a5d3.chunk.js",
-  "main.js.map": "/lzagaja.com/static/js/main.cda3a5d3.chunk.js.map",
-  "static/js/1.d0acc314.chunk.js": "/lzagaja.com/static/js/1.d0acc314.chunk.js",
-  "static/js/1.d0acc314.chunk.js.map": "/lzagaja.com/static/js/1.d0acc314.chunk.js.map",
-  "static/js/2.c54ffd68.chunk.js": "/lzagaja.com/static/js/2.c54ffd68.chunk.js",
-  "static/js/2.c54ffd68.chunk.js.map": "/lzagaja.com/static/js/2.c54ffd68.chunk.js.map",
-  "runtime~main.js": "/lzagaja.com/static/js/runtime~main.a425e59c.js",
-  "runtime~main.js.map": "/lzagaja.com/static/js/runtime~main.a425e59c.js.map",
-  "static/css/main.e8fc7118.chunk.css.map": "/lzagaja.com/static/css/main.e8fc7118.chunk.css.map",
-  "index.html": "/lzagaja.com/index.html",
-  "precache-manifest.84b5a247452ef7295409a235f2b97bfe.js": "/lzagaja.com/precache-manifest.84b5a247452ef7295409a235f2b97bfe.js",
-  "service-worker.js": "/lzagaja.com/service-worker.js"
+  "main.css": "/static/css/main.e8fc7118.chunk.css",
+  "main.js": "/static/js/main.cda3a5d3.chunk.js",
+  "main.js.map": "/static/js/main.cda3a5d3.chunk.js.map",
+  "static/js/1.d0acc314.chunk.js": "/static/js/1.d0acc314.chunk.js",
+  "static/js/1.d0acc314.chunk.js.map": "/static/js/1.d0acc314.chunk.js.map",
+  "static/js/2.3d40d30c.chunk.js": "/static/js/2.3d40d30c.chunk.js",
+  "static/js/2.3d40d30c.chunk.js.map": "/static/js/2.3d40d30c.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a3b6dd91.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a3b6dd91.js.map",
+  "static/css/main.e8fc7118.chunk.css.map": "/static/css/main.e8fc7118.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.6adaac3e8596f40eaa978018709d8ba2.js": "/precache-manifest.6adaac3e8596f40eaa978018709d8ba2.js",
+  "service-worker.js": "/service-worker.js"
 }
